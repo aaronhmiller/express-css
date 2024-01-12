@@ -3,6 +3,8 @@ const express = require('express')
 const app = express()
 const port = 3000
 
+FOO!!!
+
 // Static Files
 app.use(express.static('public'));
 
